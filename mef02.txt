@@ -1,0 +1,17 @@
+16
+abb
+aacb
+bbbaba
+aaabbbbbabbabb
+bbabbaaab
+aaabbbbbabba
+aaabbbbbabbab
+aaabbbbbababb
+aaabbabbabb
+aaabbabbabb
+aaababbabbbbb
+aaabbbbab
+aaabbabbabb
+bbbbbabbabb
+abbbbbababb
+abbbbbab
